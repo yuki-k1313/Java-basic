@@ -50,7 +50,7 @@ public class I_Lambda {
 	
 	static void method(TriangleArea lambda) { 
 		double result = lambda.triangleArea(10, 5);
-		System.out.println(result);
+		System.out.println(result); 
 	}
 	
 }
